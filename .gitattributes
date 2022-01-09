@@ -1,9 +1,5 @@
 * linguist-vendored
 *.html linguist-vendored=false
-wp-content/uploads/2021/04_NelsonLakes/20211225_093453.mp4 filter=lfs diff=lfs merge=lfs -text
-wp-content/uploads/2021/04_NelsonLakes/20211227_115915.mp4 filter=lfs diff=lfs merge=lfs -text
-wp-content/uploads/2021/04_NelsonLakes/20211225_093014.mp4 filter=lfs diff=lfs merge=lfs -text
-wp-content/uploads/2021/04_NelsonLakes/20211225_093153.mp4 filter=lfs diff=lfs merge=lfs -text
 wp-content/uploads/2021/04_NelsonLakes/20211227_120711.mp4 filter=lfs diff=lfs merge=lfs -text
 wp-content/uploads/2021/03_Tophouse/20211223_185415.mp4 filter=lfs diff=lfs merge=lfs -text
 wp-content/uploads/2021/04_NelsonLakes/20211225_0930.mp4 filter=lfs diff=lfs merge=lfs -text
